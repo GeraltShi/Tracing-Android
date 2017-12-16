@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_done.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_camera.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_rotate.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_clear.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\gf_ic_preview.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\gf_ic_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_crop.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gf_back.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-mdpi\\ic_gf_back.png"
+    }
+]

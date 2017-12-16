@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar.xml",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\menu\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_menu.xml",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nearby_menu.xml",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\menu\\nearby_menu.xml"
+    }
+]

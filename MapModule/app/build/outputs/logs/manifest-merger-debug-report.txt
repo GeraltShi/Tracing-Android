@@ -1,0 +1,378 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:2:1-161:12
+	package
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:20:5-43
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:7:9-38
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:6:9-35
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:9:19-57
+supports-screens
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:11:5-16:40
+	android:largeScreens
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:16:9-37
+	android:anyDensity
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:21:5-81
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:14:5-81
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:21:22-78
+uses-feature#0x00020000
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:23:5-54
+	android:glEsVersion
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:23:19-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:31:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:34:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:37:9-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:40:5-75
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:40:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:41:5-80
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:16:5-80
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:41:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:45:5-81
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:45:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:47:5-79
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:47:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:51:5-76
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:51:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:53:5-76
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:53:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:61:5-89
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:61:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:63:5-68
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:63:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:64:5-74
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:64:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:65:5-84
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:12:5-84
+MERGED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:65:22-81
+application
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:68:5-159:19
+MERGED from [com.android.support:design:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:18:5-34:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:71:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:72:9-35
+	android:allowBackup
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:69:9-35
+	android:icon
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:70:9-40
+	android:largeHeap
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:20:9-33
+	android:theme
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:73:9-40
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:74:9-76:64
+	android:value
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:76:13-61
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:75:13-50
+service#com.amap.api.location.APSService
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:78:9-68
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:78:18-65
+activity#com.fdwireless.trace.ui.LoginActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:80:9-86:20
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:80:19-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:81:13-85:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:82:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:84:17-77
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:84:27-74
+activity#com.fdwireless.trace.mapmodule.MainActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:87:9-89:39
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:89:13-36
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:88:13-41
+activity#com.fdwireless.trace.mapmodule.CardActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:90:9-92:51
+	android:theme
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:92:13-48
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:91:13-41
+activity#com.fdwireless.trace.mapmodule.NewClipActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:93:9-95:54
+	android:theme
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:95:13-51
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:94:13-44
+activity#com.fdwireless.trace.ui.RegisterActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:96:9-77
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:96:19-74
+activity#com.fdwireless.trace.ui.NavUser
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:97:9-68
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:97:19-65
+activity#com.fdwireless.trace.ui.NavFriends
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:98:9-71
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:98:19-68
+activity#com.fdwireless.trace.ui.NavTeam
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:99:9-68
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:99:19-65
+activity#com.fdwireless.trace.ui.NavSettings
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:100:9-72
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:100:19-69
+activity#com.fdwireless.trace.ui.NearbyActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:102:9-75
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:102:19-72
+activity#com.fdwireless.trace.ui.MenuSearch
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:103:9-104:38
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:104:13-36
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:103:19-68
+activity#com.fdwireless.trace.ui.MenuGroupPeople
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:105:9-107:33
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:107:13-30
+	android:theme
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:105:19-73
+activity#com.fdwireless.trace.ui.ImageSelect
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:108:9-110:62
+	android:configChanges
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:110:13-59
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:109:13-63
+activity#com.fdwireless.trace.ui.GroupFour
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:111:9-70
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:111:19-67
+activity#com.fdwireless.trace.ui.MenuSendNearby
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:112:9-114:20
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:112:19-72
+activity#com.fdwireless.trace.ar.UnityPlayerNativeActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:117:9-131:20
+	android:screenOrientation
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:122:13-51
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:120:13-45
+	android:launchMode
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:121:13-48
+	android:configChanges
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:119:13-170
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:118:13-77
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:125:13-127:40
+	android:value
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:127:17-37
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:126:17-57
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:128:13-130:41
+	android:value
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:130:17-38
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:129:17-71
+activity#com.fdwireless.trace.ar.SecondActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:132:9-137:51
+	android:process
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:134:13-44
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:137:13-39
+	android:launchMode
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:135:13-48
+	android:theme
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:136:13-49
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:133:13-66
+activity#com.fdwireless.trace.ar.UnityPlayerActivity
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:138:9-141:60
+	android:process
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:140:13-43
+	android:launchMode
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:141:13-48
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:139:13-71
+activity#com.unity3d.player.VideoPlayer
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:142:9-146:52
+	android:screenOrientation
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:145:13-45
+	android:configChanges
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:144:13-170
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:143:13-58
+uses-library#com.ti.s3d
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:152:9-154:40
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:154:13-37
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:153:13-38
+uses-library#com.osterhoutgroup.api.ext
+ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:156:9-158:40
+	android:required
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:158:13-37
+	android:name
+		ADDED from C:\Users\Geralt\Desktop\MapModule\MapModule\app\src\main\AndroidManifest.xml:157:13-54
+activity#cn.finalteam.galleryfinal.PhotoSelectActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:22:9-25:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:23:13-73
+activity#cn.finalteam.galleryfinal.PhotoEditActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:28:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:27:13-71
+activity#cn.finalteam.galleryfinal.PhotoPreviewActivity
+ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:30:9-33:52
+	android:screenOrientation
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:32:13-83
+	android:name
+		ADDED from [cn.finalteam:galleryfinal:1.4.8.7] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\galleryfinal\1.4.8.7\AndroidManifest.xml:31:13-74
+uses-permission#android.permission.GET_TASKS
+ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from [cn.finalteam:toolsfinal:1.1.5] C:\Users\Geralt\Desktop\MapModule\MapModule\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\AndroidManifest.xml:26:22-66

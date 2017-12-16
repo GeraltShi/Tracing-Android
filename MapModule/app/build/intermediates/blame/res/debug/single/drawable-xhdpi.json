@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arc_bg.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\arc_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_camera.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_crop.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_camera.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_triangle_arrow.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_triangle_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gf_ic_preview.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\gf_ic_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_back.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_sleep.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_button.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_with.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_with.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_done.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_default_photo.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_default_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arc_progress.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\arc_progress.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_crop_tile.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_place.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_place.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_thought.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_thought.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_photo.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_delete_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_music.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\composer_icn_plus.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\src\\main\\res\\drawable-xhdpi\\composer_icn_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_rotate.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gf_clear.png",
+        "source": "C:\\Users\\Geralt\\Desktop\\MapModule\\MapModule\\app\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_clear.png"
+    }
+]
